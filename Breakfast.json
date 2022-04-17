@@ -1,0 +1,33 @@
+[
+    {
+    "category": "Breakfast",
+    "recipe": "Banana Pancakes",
+    "prep": "10min",
+    "cook": "15min",
+    "ingredients": [
+        "1 cup all purpose flour",
+        "1 TSP baking powder",
+        "1/4 teaspoon salt",
+        "1 egg, beaten",
+        "1 cup milk",
+        "2 tablespoons vegetable oil",
+        "2 ripe bananas, mashed"
+    ],
+    "directions": "Combine flour, white sugar, baking powder, and salt in a bowl. Mix together egg, milk, vegetable oil, and banana in a second bowl. Stir flour mixture into banana mixture; batter will be slightly lumpy. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Cook until pancakes are golden brown, 3 to 5 minutes. Serve hot."
+},
+    {
+        "category": "Breakfast",
+        "recipe": "French Toast",
+        "prep": "15min",
+        "cook": "10min",
+        "ingredients": [
+            "2/3 cup milk",
+            "2 large eggs",
+            "1 TSP ground cinnamon",
+            "salt to taste",
+            "6 thick slices bread",
+            "1 TBSP unsalted butter"
+        ],
+        "directions": "Whisk milk, eggs, vanilla, cinnamon, and salt together in a shallow bowl. Lightly butter a griddle and heat over medium- high heat. Dunk break in the egg mixture, soaking both sides. Transfer to the hot skillet and cook until golden, 3 to 4 minutes per side. Serve hot."
+    }
+]

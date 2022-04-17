@@ -1,0 +1,90 @@
+[
+        {
+        "category": "Desserts",
+        "recipe": "Air Fryer Coconut Macaroons",
+        "prep": "15min",
+        "cook": "55min",
+        "ingredients": [
+            "1 14oz package sweetened flake coconut",
+            "2/3 cup sweetened condensed milk",
+            "3/4 teaspoon kosher salt",
+            "1/2 teaspoon vanilla extract",
+            "2 large egg whites, at room temperature",
+            "8 ounces bittersweet chocolate, chopped"
+            
+        ],
+        "directions": "Preheat an air fryer to 320 degrees F (160 degrees C) for 10 minutes. Cut a piece of parchment paper to fit the air fryer basket, leaving 1 inch on each side to use as handles.Mix coconut, condensed milk, salt, and vanilla together in a large bowl. Beat egg whites in a medium bowl with an electric mixer with a whisk attachment on medium-high speed until stiff peaks almost form, about 90 seconds. Fold egg whites into the coconut mixture.Working in batches, spoon level tablespoons of the coconut mixture into rounds and place on the parchment paper, about 6 at time. Carefully transfer the parchment with coconut rounds into the air fryer basket.Cook until golden brown and set, 9 to 10 minutes. Remove parchment from basket, transfer macaroons to a wire rack, and repeat the process with remaining coconut mixture using the same piece of parchment paper.Microwave chocolate in a medium microwave-safe bowl on high power for 30 seconds, then stir. Continue microwaving and stirring in 30 second increments, until melted and smooth, about 90 seconds total.Dip flat bottoms of macaroons into melted chocolate and transfer to a parchment-lined baking sheet to set. Let rest until chocolate firms, about 30 minutes."
+    },
+        {
+        "category": "Desserts",
+        "recipe": "Chocolate Torte",
+        "prep": "15min",
+        "cook": "30min",
+        "ingredients": [
+            "1/2 cup pareve margarine",
+            "8 ounces semisweet chocolate, chopped",
+            "5 eggs, separated",
+            "3/4 cup white sugar",
+            "1 cup ground almonds"
+            
+        ],
+        "directions": "Preheat oven to 350 degrees F (175 degrees C). Line bottom and sides of a 9 inch springform pan with foil. Grease foil. Melt margarine and chocolate over low heat. Stir until smooth and let cool.In a medium-size mixing bowl, beat whites until stiff; about 2 minutes. In a separate bowl, beat together yolks and sugar until thick and pale; about 1 minute. Blend in chocolate mixture and stir in almonds. Fold in beaten whites, 1/3 at a time, into chocolate until no streaks of white remain. Scrape into prepared pan. Place an 8 inch baking pan with 1 inch of water in it on the bottom rack of the oven (to make the torte more moist).Bake torte on center rack at 350 degrees F (175 degrees C) for 45 to 50 minutes, or until sides begin to pull away from pan and top is set in center. Cover the torte loosely with foil for the last 20 minutes of baking. Note: Don't worry if the cake cracks because the top will be on the bottom later.Cool on wire rack for 10 minutes and then carefully remove sides of pan. Invert onto a serving plate and cool completely."
+    },
+       {
+        "category": "Desserts",
+        "recipe": "Rhubarb Crisp",
+        "prep": "20min",
+        "cook": "45min",
+        "ingredients": [
+            "4 cups chopped rhubarb",
+            "3/4 cup white sugar",
+            "2 TBSP quick- cooking tapioca",
+            "1/2 TSP salt",
+            "1/2 10oz package frozen sliced strawberries",
+            "1 cup rolled oats",
+            "1/3 cup brown sugar",
+            "1/4 cup sifted all purpose flour",
+            "1/4 cup butter, melted"
+            
+        ],
+        "directions": "Preheat oven to 350 degrees F (175 degrees C).Mix rhubarb, white sugar, tapioca, and salt in a large bowl and toss to coat; let rest, stirring occasionally, for 30 minutes.Stir strawberries into the rhubarb mixture; spread into a casserole dish.Stir oats, brown sugar, flour, and butter together in a separate bowl until crumbly; sprinkle over the fruit mixture in the casserole dish.Bake in preheated oven until set, about 45 minutes."
+    },
+       {
+        "category": "Desserts",
+        "recipe": "Peanut Butter Cookies",
+        "prep": "25min",
+        "cook": "10min",
+        "ingredients": [
+            "1 cup unsalted butter",
+            "1 cup crunchy peanutbutter",
+            "1 cup white sugar",
+            "1 cup packed brown sugar",
+            "2 large eggs",
+            "2 1/2 cups all purpose flour",
+            "1 TSP baking powder",
+            "1/2 TSP salt",
+            "1 1/2 TSP baking soda"
+            
+        ],
+        "directions": "Cream butter, peanut butter, and sugars together in a bowl; beat in eggs.In a separate bowl, sift flour, baking powder, baking soda, and salt; stir into butter mixture. Put dough in refrigerator for 1 hour. Roll dough into 1 inch balls and put on baking sheets. Flatten each ball with a fork, making a crisscross pattern. Bake in a preheated 375 degrees F oven for about 10 minutes or until cookies begin to brown."
+    },
+       {
+        "category": "Desserts",
+        "recipe": "Brownies",
+        "prep": "20min",
+        "cook": "20min",
+        "ingredients": [
+            "1/2 cup butter",
+            "1 cup white sugar",
+            "2 eggs",
+            "1 TSP vanilla extract",
+            "1/3 cup unsweetened cocoa powder",
+            "1/2 cup all purpose flour",
+            "1/4 TSP salt",
+            "1/4 TSP baking powder"
+            
+        ],
+        "directions": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour an 8-inch square pan. In a large saucepan, melt 1/2 cup butter. Remove from heat, and stir in sugar, eggs, and 1 teaspoon vanilla. Beat in 1/3 cup cocoa, 1/2 cup flour, salt, and baking powder. Spread batter into prepared pan. Bake in preheated oven for 25 to 30 minutes. Do not overcook.To Make Frosting: Combine 3 tablespoons softened butter, 3 tablespoons cocoa, honey, 1 teaspoon vanilla extract, and 1 cup confectioners' sugar. Stir until smooth. Frost brownies while they are still warm."
+    }
+    
+]

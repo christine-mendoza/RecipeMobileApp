@@ -1,0 +1,37 @@
+[
+    {
+        "category": "Favorites",
+        "prep" : "10min",
+        "cook": "30min",
+        "recipe" : "Tilapia with Scallion Sriracha Pesto",
+        "ingredients": [
+            "1 Thumb of Ginger",
+            "4 Scallions",
+            "1 Lime",
+            "1/2 Jasmine Rice",
+            "1TBSP Sesame Seeds",
+            "1 TSP Sriracha",
+            "11 oz Tilapia",
+            "6 oz Green Beans",
+            "2 TBSP Soy Sauce"
+        ],
+        "directions": "Prep: Wash and dry all produce. Peel and mince or grate giner. Trim and finely chop scallions. Halve lime; cut one half into wedges. Cook rice: Melt 1 TBSP butter in a small pot over medium-high heat. Add 1 TBSP ginger. Cook, stirring, until fragrant, 30 seconds. Add 3/4 cup water and a pinch of salt. Bring to a boil, then stir in rice. Cover and reduce to a low simmer. Cook until rice is tender, 15-18 minutes. Keep covered off heat until ready to serve. Meanwhile, in a medium bowl combine scallions, sesame oil, half the sesame seeds, 1 TBSP olive oil, 1 tsp ginger, 1 tsp sugar, juice from lime half, and sriracha to taste. Season with salt and pepper; add more ginger or lime juice to taste. Pat tilapia dry with paper towels; season generously all over the salt and pepper. Heat a large drizzle of oil in a large, preferably nonstick, pan over medium-high heat. Add tilapia and cook until browned and cooked through, 4-6 minutes per side."
+    },
+    {
+        "category": "Favorites",
+        "prep": "10min",
+        "cook": "40min",
+        "recipe": "Steak with Creamy Thyme Sauce",
+        "ingredients": [
+            "12 oz Yukon Gold Potatoes",
+            "12 oz Carrots",
+            "1/4 oz Fresh Tyme",
+            "1 Clove of Garlic",
+            "2 Scallions",
+            "10 oz Ranch Steak",
+            "1 Beef Stock Concentrate",
+            "2 TBSP Sour Cream"
+        ],
+        "directions": "Adjust rack to top position and preheat oven to 425 degrees. Wash and dry all produce. Dice potatoes into 1/2 in pieces. Trim, peel, and cut carrots on a diagonal into 1/2 inch thick pieces. Strip half the tyme leaves from stems and roughly chop leaves. Peel and mince or grate garlic. Trim and thinly slice scallions, separating whites from greens. Toss potatoes on one side of a baking sheet with a drizzle of olive oil; season generously with salt and pepper. Toss carrots on empty side wiht a drizzle of olive oil; season with salt and pepper. Roast on top rack until golden brown. Meanwhile, pat steak dry with paper towels; season generously all over with salt and pepper. Heat a drizzle of oil in a large pan over medium high heat. Add steak and cook to desired doneness 4-7 minutes per side. Turn off heat; transfer to cutting board to rest."
+    },
+    ]

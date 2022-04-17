@@ -1,0 +1,99 @@
+[
+    {
+        "category": "Seafood",
+        "recipe": "Grilled Fish Steaks",
+        "prep": "10min",
+        "cook": "90min",
+        "ingredients": [
+            "1 clove garlic, minced",
+            "6 TBSP olive oil",
+            "1 TSP dried basil",
+            "1 TSP salt",
+            "1 TSP ground pepper",
+            "1 TBSP fresh lemon juice",
+            "1 TBSP chopped fresh parsley",
+            "2 6oz fillets halibut"
+        ],
+        "directions": "In a stainless steel or glass bowl, combine garlic, olive oil, basil, salt, pepper, lemon juice, and parsley. Place the halibut filets in a shallow glass dish or a resealable plastic bag, and pour the marinade over the fish. Cover or seal and place in the refrigerator for 1 hour, turning occasionally. Preheat an outdoor grill for high heat and lightly oil grate. Set grate 4 inches from the heat. Remove halibut filets from marinade and drain off the excess. Grill filets 5 minutes per side or until fish is done when easily flaked with a fork."
+    },
+    {
+        "category": "Seafood",
+        "recipe": "Hudson's Baked Tilapia With Dill Sauce",
+        "prep": "10min",
+        "cook": "20min",
+        "ingredients": [
+            "4 4oz fillets tilapia",
+            "salt and pepper to taste",
+            "1 TBSP Cajun Seasoning",
+            "1 lemon, thinly sliced",
+            "1/4 cup mayonnaise",
+            "1/2 cup sour cream",
+            "1/8 teaspoon garlic powder",
+            "1 teaspoon fresh lemon juice",
+            "2 TBSP chopped fresh dill"
+            
+        ],
+        "directions": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish.Season the tilapia fillets with salt, pepper and Cajun seasoning on both sides. Arrange the seasoned fillets in a single layer in the baking dish. Place a layer of lemon slices over the fish fillets. I usually use about 2 slices on each piece so that it covers most of the surface of the fish.Bake uncovered for 15 to 20 minutes in the preheated oven, or until fish flakes easily with a fork. While the fish is baking, mix together the mayonnaise, sour cream, garlic powder, lemon juice and dill in a small bowl. Serve with tilapia."
+    },
+    {
+        "category": "Seafood",
+        "recipe": "Sesame Seared Tuna",
+        "prep": "10min",
+        "cook": "10min",
+        "ingredients": [
+            "1/4 cup soy sauce",
+            "1 TBSP mirin (Japanses sweet wine)",
+            "1 TBSP honey",
+            "2 TBSP sesame oil",
+            "1 TBSP rice wine vinegar",
+            "4 6oz tuna steaks",
+            "1/2 cup sesame seeds",
+            "wasabi paste",
+            "1 TBSP olive oil"
+            
+        ],
+        "directions": "In a small bowl, stir together the soy sauce, mirin, honey and sesame oil. Divide into two equal parts. Stir the rice vinegar into one part and set aside as a dipping sauce. Spread the sesame seeds out on a plate. Coat the tuna steaks with the remaining soy sauce mixture, then press into the sesame seeds to coat. Heat olive oil in a cast iron skillet over high heat until very hot. Place steaks in the pan, and sear for about 30 seconds on each side. Serve with the dipping sauce and wasabi paste."
+    },
+    {
+        "category": "Seafood",
+        "recipe": "Fresh Salmon Cakes",
+        "prep": "20min",
+        "cook": "95min",
+        "ingredients": [
+            "1 TBSP extra-virgin olive oil",
+            "1/4 cup minced onion",
+            "2 TBSP minced red bell pepper",
+            "2 TBSP minced celery",
+            "salt and pepper to taste",
+            "1 TBSP capers",
+            "1 1/4 pouds fresh wild salmon, coarsely chopped",
+            "1/4 cup mayonnaise",
+            "1/4 cup panko bread crumbs",
+            "2 cloves garlic, minced",
+            "1 teaspoon Dijon mustard",
+            "1 pinch cayenne pepper",
+            "1 pinch seafood seasoning (Old Bay)",
+            "1 TBSP panko bread crumbs",
+            "2 TBSP olive oil, or as needed"
+            
+        ],
+        "directions": "Heat extra virgin olive oil in a skillet over medium heat. Cook and stir onion, red pepper, celery, and a pinch of salt in hot oil until onion is soft and translucent, about 5 minutes. Add capers; cook and stir until fragrant, about 2 minutes. Remove from heat and cool to room temperature.Stir salmon, onion mixture, mayonnaise, 1/4 cup bread crumbs, garlic, mustard, cayenne, seafood seasoning, salt, and ground black pepper together in a bowl until well-mixed. Cover the bowl with plastic wrap and refrigerate until firmed and chilled, 1 to 2 hours. Form salmon mixture into four 1-inch thick patties; sprinkle remaining panko bread crumbs over each patty.Heat olive oil in a skillet over medium-heat. Cook patties in hot oil until golden and cooked through, 3 to 4 minutes per side."
+    },
+    {
+        "category": "Seafood",
+        "recipe": "Clams and Garlic",
+        "prep": "25min",
+        "cook": "25min",
+        "ingredients": [
+            "50 small clams in shell, scrubbed",
+            "2 TBSP extra virgin olive oil",
+            "6 cloves garlic, minced",
+            "1 cup white wine",
+            "2 TBSP butter",
+            "1/2 cup chopped fresh parsley"
+            
+        ],
+        "directions": "Wash clams to remove any dirt or sand. In a large pot, heat oil over medium heat. Add garlic; saute for 1 minute, or until tender. Pour in the white wine. Boil until wine has reduced to half its original volume.Add clams, cover, and steam till clams start to open. Add butter, cover, and cook till most or all of the clams open. Discard any that do not open. Transfer clams and juice to 2 large bowls. Sprinkle with parsley. Serve."
+    }
+    
+]
